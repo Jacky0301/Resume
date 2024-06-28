@@ -4,11 +4,11 @@
 - Email:0961519193a@gmail.com
 - 學歷:[輔仁大學\經濟學系](https://economics.fju.edu.tw/)
 - 興趣:旅遊、**看電影**
+- 個人網頁:https://jacky0301.github.io/
 <hr>
 1.abc
 2.def
-3.ghi
-
+3.gh
 
 ### 個人著作
 - 使用C++程式語言開發AI機器人
