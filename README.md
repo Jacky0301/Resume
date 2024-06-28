@@ -5,7 +5,6 @@
 - 學歷:[輔仁大學\經濟學系](https://economics.fju.edu.tw/)
 - 興趣:旅遊、**看電影**
 <hr>
-
 1.abc
 2.def
 3.ghi
